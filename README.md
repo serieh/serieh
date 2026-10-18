@@ -16,7 +16,7 @@ I've got a bunch of pinned projects, but my favorite is [Aman](https://github.co
 |---|---|
 | 🎓 **Education** | B.Sc. in Data Science & AI, Al-Ahliyya Amman University (graduated Oct 2026) |
 | 🏆 **Recognition** | Best Graduation Project, IT Faculty, AAU (2026) · Participant, National Technology Parade (NTP) 2026 |
-| 🔬 **Training** | AI & Data Science Trainee at the Royal Scientific Society (224 hours of ML, NLP and RAG) |
+| 🔬 **Training** | AI & Data Science Trainee at the Royal Scientific Society |
 | 🌍 **Languages** | Arabic (native), English (C1), Python (fluent) |
 | 🐧 **Hobby** | Trying a new Linux distro ("the perfect distro is one distro away"). Ubuntu, Debian, Arch, TempleOS… the list keeps growing |
 
